@@ -1,3 +1,4 @@
+# answer: 2138382217
 with open("input.txt", "r") as f:
     lines = f.readlines()
     xPos = 0
